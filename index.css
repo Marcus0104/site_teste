@@ -43,5 +43,6 @@ p{
 .conta{
     margin: 0%;
     height: 100vh;
-    background-image: linear-gradient(to left, blue, red);
+    background-image: linear-gradient(to top, blue, red);
 }
+
