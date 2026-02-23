@@ -38,4 +38,10 @@ p{
     margin: 0%;
     height: 100vh;
     background-image: linear-gradient(to left, rgb(0, 143, 64), rgb(190, 0, 0));
+
+}
+.conta{
+    margin: 0%;
+    height: 100vh;
+    background-image: linear-gradient(to left, blue, red);
 }
